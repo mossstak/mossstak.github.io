@@ -120,7 +120,7 @@
 
 
 /*Mobile Responsive*/
-@media screen and (max-device-width: 425px) {
+@media screen and (max-device-width: 412px) {
     *{
         box-sizing: border-box;
         margin: 0;
@@ -128,7 +128,7 @@
     }
     
     .center{
-        height: 800px;
+        height: 915px;
         margin: 50px 50px;
         display: flex;
         align-items: center;
